@@ -1,0 +1,10 @@
+{
+    "dm_host": "localhost",
+    "dm_port": "5236",
+    "dm_username": "SYSDBA",
+    "dm_password": "SYSDBA",
+    "dm_database": "TEST",
+    "service_host": "localhost",
+    "service_port": 7860,
+    "debug": false
+}
