@@ -1,3 +1,14 @@
+---
+app_name: 达梦数据库MCP服务
+description: 基于Gradio的达梦数据库MCP服务，提供通过自然语言或直接操作与达梦数据库交互的能力
+tags:
+  - database
+  - dameng
+  - mcp
+  - sql
+  - gradio
+---
+
 # 达梦数据库MCP服务
 
 这是一个基于Gradio的达梦数据库MCP（Model Context Protocol）服务，提供了通过自然语言或直接操作与达梦数据库交互的能力。
