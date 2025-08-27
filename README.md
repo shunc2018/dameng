@@ -1,5 +1,5 @@
 ---
-app_name: dameng
+app_name: 达梦数据库MCP服务
 description: 基于Gradio的达梦数据库MCP服务，提供通过自然语言或直接操作与达梦数据库交互的能力
 tags:
   - database
@@ -19,6 +19,24 @@ tags:
 2. 执行自定义SQL查询
 3. 查看表结构信息
 4. 直观的Web界面操作
+
+## 服务配置
+
+```json
+{
+  "server": {
+    "port": 7860,
+    "host": "0.0.0.0"
+  },
+  "env": {
+    "DM_HOST": "localhost",
+    "DM_PORT": "5236",
+    "DM_USERNAME": "SYSDBA",
+    "DM_PASSWORD": "SYSDBA",
+    "DM_DATABASE": ""
+  }
+}
+```
 
 ## 安装依赖
 
