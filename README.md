@@ -1,5 +1,5 @@
 ---
-app_name: 达梦数据库MCP服务
+app_name: dameng
 description: 基于Gradio的达梦数据库MCP服务，提供通过自然语言或直接操作与达梦数据库交互的能力
 tags:
   - database
